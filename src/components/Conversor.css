@@ -1,0 +1,34 @@
+.conversor{
+  padding: 20px;
+  box-shadow: 0 3px 5px 0 #b08f26;
+  margin: 15px;
+  text-align: left;
+}
+
+.conversor h2{
+  font-size: 20px;
+}
+
+.conversor h3{
+  font-size: 17px;
+}
+
+input{
+  margin: 5px;
+}
+
+input[type=text]{
+  font-size: 17px;
+  max-width: 80px;
+  margin-left: 0;
+}
+
+input[type=button]{
+  cursor: pointer;
+  padding: 5px;
+  border: 0.5px solid #000;
+}
+
+.moeda{
+  color: #b08f26;
+}
